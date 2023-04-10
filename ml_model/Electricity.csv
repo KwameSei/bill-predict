@@ -1,4 +1,4 @@
-Appliance,Wattage,Time,Number of Days Used,Daily_Consumption,Monthly_Consumption
+Appliance,Wats,Time,Days,D_Consumption,M_Consumption
 Iron,1000,1,31,0.369,11.439
 Iron,1000,2,10,0.738,7.38
 Iron,1000,4,21,1.476,30.996
